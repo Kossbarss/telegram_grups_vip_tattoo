@@ -42,9 +42,31 @@ Site URL / Redirect URLs у Supabase Dashboard → Auth на реальний д
 
 - `supabase/migrations/` — схема БД, RLS-політики (ізоляція даних кожного
   майстра), приватний storage-бакет `portfolio`, тригер автостворення
-  профілю при запрошенні нового майстра.
+  профілю при запрошенні нового майстра, тригер перехресної перевірки
+  тенанта для `client_id` в замовленнях/розрахунках.
 - `lib/supabase/{server,client,admin}.ts` — Supabase-клієнти для
   Server Components/Actions, браузера та service-role (лише сервер).
 - `app/(admin)/admin` — надання доступу майстрам (тільки роль `admin`).
 - `app/(app)/*` — сам CRM-інструмент (тільки роль `master`): огляд,
   клієнти, замовлення, калькулятор, портфоліо, налаштування.
+
+## Тести RLS-ізоляції (pgTAP)
+
+`supabase/tests/database/*.sql` — 43 pgTAP-тести, що перевіряють: майстер
+бачить лише свої дані (clients/orders/calculations/portfolio_items/
+master_settings/calculator_options), не може вставити чи змінити чужий
+рядок, admin бачить усі профілі але не бізнес-дані майстрів, storage
+ізольований по папках `{masterId}/...`.
+
+Запуск без Docker/Supabase (проти звичайного локального Postgres з
+розширенням pgtap):
+```bash
+sudo apt install postgresql-16-pgtap  # або відповідну версію
+npm run test:db
+```
+
+Запуск проти вже піднятого `supabase start` (використовує його Postgres
+на порту 54322):
+```bash
+npm run test:db:supabase
+```

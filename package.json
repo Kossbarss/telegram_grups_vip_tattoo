@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test:db": "bash scripts/run-pgtap-tests.sh",
+    "test:db:supabase": "bash scripts/run-pgtap-tests.sh --supabase"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.4.0",
