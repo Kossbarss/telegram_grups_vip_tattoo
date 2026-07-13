@@ -325,19 +325,19 @@
 
 ▪️Блок 𝟏 𝐕𝐈𝐏 𝐭𝐚𝐭𝐭𝐨𝐨 𝐬𝐜𝐡𝐨𝐨𝐥 (https://t.me/vip_tattoo_school/3) 🎁
 
-▪️Блок 𝟐 𝒀𝒈 - 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 (https://t.me/vip_tattoo_school/4) 🎁
+▪️Блок 𝟐 𝐀𝐈 - 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 (https://t.me/vip_tattoo_school/4) 🎁
 
-▪️Блок 𝟓 Материалы (https://t.me/vip_tattoo_school/6) 🎁
+▪️Блок 𝟒 Материалы (https://t.me/vip_tattoo_school/6) 🎁
 
-▪️Блок 𝟔 Организация + Рабочее место (https://t.me/vip_tattoo_school/8) 🎁
+▪️Блок 𝟓 Организация + Рабочее место (https://t.me/vip_tattoo_school/8) 🎁
 
-▪️Блок 𝟕 Практика (https://t.me/vip_tattoo_school/9) 🎁
+▪️Блок 𝟔 Практика (https://t.me/vip_tattoo_school/9) 🎁
 
-▪️Блок 𝟖 Работа с кожей (https://t.me/vip_tattoo_school/10) 🎁
+▪️Блок 𝟕 Работа с кожей (https://t.me/vip_tattoo_school/10) 🎁
 
-▪️Блок 𝟗 Трафареты (https://t.me/vip_tattoo_school/11) 🎁
+▪️Блок 𝟖 Трафареты (https://t.me/vip_tattoo_school/11) 🎁
 
-▪️Блок 𝟘 - 𝐏𝐫𝐨 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 ®️ (https://t.me/vip_tattoo_school/12) 🎁
+▪️Блок 𝟗 - 𝐏𝐫𝐨 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 ®️ (https://t.me/vip_tattoo_school/12) 🎁
 
 ▪️Блок 𝟏𝟎 - 𝟑𝟎 дневной практикум (https://t.me/vip_tattoo_school/13) 🎁
 
