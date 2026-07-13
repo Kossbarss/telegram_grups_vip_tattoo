@@ -183,7 +183,7 @@
 
 Перейти в наш чат и задать вопрос - чат (https://t.me/chat_tattoo_school)𝑽𝑰𝑷 𝒕𝒂𝒕𝒕𝒐𝒐 𝒔𝒄𝒉𝒐𝒐𝒍 (https://t.me/chat_tattoo_school) 🎁
 
-▪️Блок 𝟐 𝒀𝒈 - 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 (https://t.me/vip_tattoo_school/4) 🎁
+▪️Блок 𝟐 𝑨𝒊 - 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 (https://t.me/vip_tattoo_school/4) 🎁
 
 ▪️Блок 𝟑 Безопасность (https://t.me/vip_tattoo_school/5) 🎁
 
