@@ -128,7 +128,7 @@
 
 ▪️Блок 𝟖 Трафареты (https://t.me/vip_tattoo_school/11) 🎁
 
-▪️Блок 𝟗 - 𝐏𝐫𝐨 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 (https://t.me/vip_tattoo_school/12) ®️ 🎁
+▪️Блок 𝟗 - 𝐏𝐫𝐨 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 ®️ (https://t.me/vip_tattoo_school/12) 🎁
 
 ▪️Блок 𝟏𝟎 - 𝟑𝟎 дневной практикум (https://t.me/vip_tattoo_school/13) 🎁
 

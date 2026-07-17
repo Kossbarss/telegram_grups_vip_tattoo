@@ -22,5 +22,8 @@
 - Блок 10 - 30 дневной практикум - https://t.me/vip_tattoo_school/13
 - Блок 11 Стили - https://t.me/vip_tattoo_school/14
 - Блок 12 Работа с клиентом - https://t.me/vip_tattoo_school/15
+- Блок 13 Реклама Tattoo - https://t.me/vip_tattoo_school/602
+- Блок 14 Zoom - Tattoo - https://t.me/vip_tattoo_school/605
+- Блок 15 Tattoo - Certificate - https://t.me/vip_tattoo_school/606
 
 ## Приклад готового навігатора для Блоку 1 (без Block 1 у списку, з рядком чату) — див. `BLOK_1_FINAL.md`, пункт 10.
