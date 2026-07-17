@@ -394,19 +394,42 @@
 ## 23. Навігатор (завершальний пункт, без Block 7 у списку)
 
 ```
-💙 Один из самых технических блоков позади! Все остальные блоки всегда под рукой:
+➡️➡️ Навигатор 🤩 ◀️◀️
 
-Блок 1 𝐕𝐈𝐏 𝐭𝐚𝐭𝐭𝐨𝐨 𝐬𝐜𝐡𝐨𝐨𝐥 - https://t.me/vip_tattoo_school/3
-Блок 2 𝑨𝒊 - 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 - https://t.me/vip_tattoo_school/4
-Блок 3 Безопасность - https://t.me/vip_tattoo_school/5
-Блок 4 Материалы - https://t.me/vip_tattoo_school/6
-Блок 5 Организация + Рабочее место - https://t.me/vip_tattoo_school/8
-Блок 6 Практика - https://t.me/vip_tattoo_school/9
-Блок 8 Трафареты - https://t.me/vip_tattoo_school/11
-Блок 9 𝐏𝐫𝐨 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 ®️ - https://t.me/vip_tattoo_school/12
-Блок 10 - 30 дневной практикум - https://t.me/vip_tattoo_school/13
-Блок 11 Стили - https://t.me/vip_tattoo_school/14
-Блок 12 Работа с клиентом - https://t.me/vip_tattoo_school/15
+Один из самых технических блоков курса позади — теперь ты понимаешь кожу изнутри и знаешь, как с ней работать бережно 💙 
+А чтобы тебе было удобно ориентироваться в обучении, я собрала здесь навигацию по всем блокам - в любой момент можешь вернуться назад или перейти дальше.
 
-🤍 Есть вопрос — переходи в наш чат: https://t.me/chat_tattoo_school
+Выбери нужный блок или просто напиши мне, если появились вопросы 📝🎁👆
+
+Перейти в наш чат и задать вопрос - чат 𝑽𝑰𝑷 𝒕𝒂𝒕𝒕𝒐𝒐 𝒔𝒄𝒉𝒐𝒐𝒍 (https://t.me/chat_tattoo_school) 🎁
+
+▪️Блок 𝟏 𝐕𝐈𝐏 𝐭𝐚𝐭𝐭𝐨𝐨 𝐬𝐜𝐡𝐨𝐨𝐥 (https://t.me/vip_tattoo_school/3) 🎁
+
+▪️Блок 𝟐 𝑨𝒊 - 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 (https://t.me/vip_tattoo_school/4) 🎁
+
+▪️Блок 𝟑 Безопасность (https://t.me/vip_tattoo_school/5) 🎁
+
+▪️Блок 𝟒 Материалы (https://t.me/vip_tattoo_school/6) 🎁
+
+▪️Блок 𝟓 Организация + Рабочее место (https://t.me/vip_tattoo_school/8) 🎁
+
+▪️Блок 𝟔 Практика (https://t.me/vip_tattoo_school/9) 🎁
+
+▪️Блок 𝟖 Трафареты (https://t.me/vip_tattoo_school/11) 🎁
+
+▪️Блок 𝟗 - 𝐏𝐫𝐨 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 ®️ (https://t.me/vip_tattoo_school/12) 🎁
+
+▪️Блок 𝟏𝟎 - 𝟑𝟎 дневной практикум (https://t.me/vip_tattoo_school/13) 🎁
+
+▪️Блок 𝟏𝟏 Стили (https://t.me/vip_tattoo_school/14) 🎁
+
+▪️Блок 𝟏𝟐 Работа с клиентом (https://t.me/vip_tattoo_school/15) 🎁
+
+▪️Блок 𝟏𝟑 Реклама 𝐓𝐚𝐭𝐭𝐨𝐨 (https://t.me/vip_tattoo_school/602) 🎁
+
+▪️Блок 𝟏𝟒 𝐙𝐨𝐨𝐦 - 𝐓𝐚𝐭𝐭𝐨𝐨 (https://t.me/vip_tattoo_school/605) 🎁
+
+▪️Блок 𝟏𝟓 𝐓𝐚𝐭𝐭𝐨𝐨 - 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞 (https://t.me/vip_tattoo_school/606) 🎁
+
+Увидимся в следующем блоке 🤍
 ```
